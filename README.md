@@ -85,8 +85,8 @@ This is My curated wallpaper's collection which i collected from
 <table>
     <h3 style="color: #E5C07B;">Cartoon's Wallpapers</h3>
     <tr>
-        <td> <img src="./ctartoon/cartoon_00001.jpg"  alt="cartoon wallpaper" width = 260px height = 200px style="object-fit: contain"></td>
-        <td> <img src="./ctartoon/cartoon_00002.jpg"  alt="cartoon wallpaper" width = 260px height = 200px style="object-fit: contain"></td>
+        <td> <img src="./cartoon/cartoon_00001.jpg"  alt="cartoon wallpaper" width = 260px height = 200px style="object-fit: contain"></td>
+        <td> <img src="./cartoon/cartoon_00002.jpg"  alt="cartoon wallpaper" width = 260px height = 200px style="object-fit: contain"></td>
     </tr>
 </table>
 
