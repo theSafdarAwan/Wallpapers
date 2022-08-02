@@ -85,15 +85,15 @@ This is My curated wallpaper's collection which i collected from
 <table>
     <h3 style="color: #E5C07B;">Cartoon's Wallpapers</h3>
     <tr>
-        <td> <img src="./others/tartoon/cartoon_00001.jpg"  alt="cartoon wallpaper" width = 260px height = 200px style="object-fit: contain"></td>
-        <td> <img src="./others/tartoon/cartoon_00002.jpg"  alt="cartoon wallpaper" width = 260px height = 200px style="object-fit: contain"></td>
+        <td> <img src="./ctartoon/cartoon_00001.jpg"  alt="cartoon wallpaper" width = 260px height = 200px style="object-fit: contain"></td>
+        <td> <img src="./ctartoon/cartoon_00002.jpg"  alt="cartoon wallpaper" width = 260px height = 200px style="object-fit: contain"></td>
     </tr>
 </table>
 
 <table>
     <h3 style="color: #E06C75;">Meme's</h3>
     <tr>
-        <td> <img src="./others/temes/hpug2e39e9f91.jpg"  alt="memes" width = 260px height = 200px style="object-fit: contain;"></td>
-        <td> <img src="./others/temes/taszsyvri9f91.jpg"  alt="memes" width = 260px height = 200px style="object-fit: contain"></td>
+        <td> <img src="./memes/hpug2e39e9f91.jpg"  alt="memes" width = 260px height = 200px style="object-fit: contain;"></td>
+        <td> <img src="./memes/taszsyvri9f91.jpg"  alt="memes" width = 260px height = 200px style="object-fit: contain"></td>
     </tr>
 </table>
